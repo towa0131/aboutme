@@ -28,6 +28,10 @@
 		vertical-align: baseline;
 	}
 
+	.aboutme > section {
+		padding-bottom: 3.0em;
+	}
+
 	article, aside, details, figcaption, figure,
 	footer, header, hgroup, menu, nav, section {
 		display: block;
